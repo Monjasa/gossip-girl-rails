@@ -53,7 +53,7 @@ gem 'rolify', '~> 5.2'
 gem 'friendly_id', '~> 5.3'
 
 # Nokogiri (鋸) is an HTML, XML, SAX, and Reader parser.
-gem 'nokogiri', '~> 1.10', '>= 1.10.9'
+gem 'nokogiri', '~> 1.11'
 # This gem brings you the power of the premailer gem to Rails without any configuration needs
 gem 'premailer-rails', '~> 1.11', '>= 1.11.1'
 # Ruby on rails wrapper for Bulma framework extensions
