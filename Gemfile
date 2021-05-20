@@ -8,7 +8,7 @@ gem 'rails', '~> 6.0.3'
 # Pg is the Ruby interface to the PostgreSQL RDBMS. It works with PostgreSQL 9.2 and later.
 gem 'pg', '~> 1.2', '>= 1.2.3'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
